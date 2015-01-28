@@ -1,0 +1,3 @@
+#Sample block all db files
+
+db/*.sqlite3
